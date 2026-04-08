@@ -2,7 +2,7 @@
 
 const mongoose = require("mongoose");
 
-const MONGO_URI = "mongodb+srv://url_shorter:uhjRQAm2dcBnfoyP@cluster0.2gk66hd.mongodb.net/urlshorter_db?retryWrites=true&w=majority";
+const MONGO_URI = "";
 
 async function testConnection() {
     try {
