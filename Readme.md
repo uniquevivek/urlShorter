@@ -216,8 +216,7 @@ VITE_API_URL=http://localhost:5000/api
 
 **Vivek Kumar Sharma**
 
-* Full Stack Developer
-* B.Tech CSE
+* Full‑Stack Developer — MERN • Django • REST APIs
 
 ---
 
