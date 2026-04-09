@@ -233,8 +233,10 @@ If you like this project:
 
 ## 📬 Contact
 
-* LinkedIn: (Add your link)
-* Email: (Add your email)
+* LinkedIn: https://www.linkedin.com/in/vivek-vsharma/
+* Email: v.k.26012004@gmail.com
+* Insta: @uniqueviveksharma
+
 
 ---
 
